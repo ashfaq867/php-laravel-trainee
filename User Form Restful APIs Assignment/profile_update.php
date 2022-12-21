@@ -1,5 +1,6 @@
 <?php
 include('config.php');
+//headers to control cross region requests/ methods
 header('Content-Type: application/json');
 header('Access-Control-Allow-Origin:*');
 header('Access-Control-Methods:POST');
