@@ -36,4 +36,8 @@ if (is_uploaded_file($_FILES['image']['tmp_name'])) {
 }
 
 
+<<<<<<< HEAD
 ?>
+=======
+?>
+>>>>>>> 1b2490b54c02c1fb279b415da313361be15e9fb5
